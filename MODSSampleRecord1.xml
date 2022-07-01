@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+
+	<mods:titleInfo>
+		<mods:title>African American Civil War soldier in Union uniform.</mods:title>
+	</mods:titleInfo>
+	<mods:typeOfResource>still image</mods:typeOfResource>
+	<mods:genre authority="gmgpc">Portraits</mods:genre>
+	<mods:genre authority="gmgpc">Tintypes</mods:genre>
+	<mods:originInfo>
+		<mods:place>
+			<mods:placeTerm type="code" authority="marccountry">-us</mods:placeTerm>
+		</mods:place>
+		<mods:place>
+			<mods:placeTerm type="text">United States</mods:placeTerm>
+		</mods:place>
+		<mods:dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">1860</mods:dateCreated>
+		<mods:dateCreated encoding="w3cdtf" qualifier="approximate" point="end">1865</mods:dateCreated>
+		<mods:dateCaptured encoding="w3cdtf">2000</mods:dateCaptured>
+	</mods:originInfo>
+	<mods:physicalDescription>
+		<mods:internetMediaType>image/tiff</mods:internetMediaType>
+		<mods:extent>1 photograph</mods:extent>
+		<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+		<mods:note>Half length portrait of a man seated with one arm resting on a table. Image scanned as part of Cased Photographs Project in 2000 with file name brk00041493_8a.tif</mods:note>
+	</mods:physicalDescription>
+	<mods:note>Preferred citation: African American Civil War soldier in Union uniform, BANC PIC 1975.049:001--CASE, The Bancroft Library, University of California, Berkeley.</mods:note>
+	<mods:subject authority="lcsh">
+		<mods:geographic>United States</mods:geographic>
+		<mods:topic>History</mods:topic>
+		<mods:topic>Civil War, 1861-1865</mods:topic>
+		<mods:topic>African Americans</mods:topic>
+	</mods:subject>
+	<mods:subject authority="lcsh">
+		<mods:topic>Soldiers, Black</mods:topic>
+	</mods:subject>
+	<mods:relatedItem type="host">
+		<mods:titleInfo>
+			<mods:title>Cased Photos Project</mods:title>
+		</mods:titleInfo>
+		<mods:typeOfResource collection="yes">mixed material</mods:typeOfResource>
+		<mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf7p3006fv</mods:identifier>
+	</mods:relatedItem>
+	<mods:relatedItem type="original">
+		<mods:titleInfo>
+			<mods:title>African American Civil War soldier in Union uniform.</mods:title>
+		</mods:titleInfo>
+		<mods:typeOfResource>still image</mods:typeOfResource>
+		<mods:physicalDescription>
+			<mods:extent>1 photograph : tintype ; sixth plate, visible image 7.8 x 6 cm.</mods:extent>
+		</mods:physicalDescription>
+		<mods:note>Half length portrait of a man seated with one arm resting on a table. Image scanned as part of Cased Photographs Project in 2000 with file name brk00041493_8a.tif</mods:note>
+		<mods:note>Image shows buttons and uniform is hand-colored; Tintype has no container; Photographer unknown; Title supplied by cataloger.</mods:note>
+		<mods:location>
+			<mods:physicalLocation>University of California, Berkeley, CA 94720-6000</mods:physicalLocation>
+			<mods:holdingSimple>
+				<mods:copyInformation>
+					<mods:subLocation>The Bancroft Library</mods:subLocation>
+					<mods:shelfLocator>BANC PIC 1975.049:001—CASE</mods:shelfLocator>
+				</mods:copyInformation>
+			</mods:holdingSimple>
+		</mods:location>
+	</mods:relatedItem>
+	<mods:identifier type="local">brk00041493_8a.tif</mods:identifier>
+	<mods:location>
+		<url usage="primary display" access="object in context">http://www.bancroft.berkeley.edu/collections/casedphotos/project.html</url>
+		<url access="object in context">http://ark.cdlib.org/ark:/13030/tf9z09p12p</url>
+		<url access="raw object">https://cdn.calisphere.org/data/13030/2p/tf9z09p12p/files/tf9z09p12p-FID3.jpg</url>
+	</mods:location>
+	<mods:accessCondition type="restrictionOnAccess">Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+	<mods:accessCondition type="useAndReproduction">All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Public Services, The Bancroft Library, University of California, Berkeley 94720-6000. See: http://bancroft.berkeley.edu/reference/permissions.html</mods:accessCondition>
+	<mods:recordInfo>
+		<mods:languageOfCataloging>
+			<mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+		</mods:languageOfCataloging>
+		<mods:recordContentSource>The Bancroft Library. University of California, Berkeley.</mods:recordContentSource>
+		<mods:recordOrigin>Derived from a Dublin Core record using the Library of Congress Stylesheet then edited to conform to the guidelines for Shareable MODS records.</mods:recordOrigin>
+	</mods:recordInfo>
+</mods:mods>
+	
